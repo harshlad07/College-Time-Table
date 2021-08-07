@@ -1,0 +1,49 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    text-align: center;
+}
+
+h2,
+h3 {
+    text-align: center;
+    display: block;
+}
+
+/* .navbar ul {
+    overflow: auto;
+} */
+
+.navbar li {
+    float: left;
+    list-style: none;
+    margin: 4px 65px
+}
+
+table {
+    border: 2px solid black;
+    width: 100%;
+    align-items: center;
+    border-collapse: collapse;
+}
+
+td {
+    margin-left: 2px;
+    border: 2px solid black;
+}
+
+tr {
+    text-align: center;
+}
+
+li {
+    display: block;
+}
+
+.container {
+    border: 2px solid black;
+    margin: auto;
+    width: 1000px;
+}
